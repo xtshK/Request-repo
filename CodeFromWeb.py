@@ -53,3 +53,19 @@ def search_products(self, keyword, max_page=1, shop='全部', sort='有貨優先
         if data['totalPage'] <= params['page']:
             break
     return products
+
+
+def get_products_sale_status(self, products_id):
+    """取得商品販售狀態
+
+    :param products_id: 商品 ID
+    :return data: 商品販售狀態資料
+    """
+    if type(products_id) == list:
+        products_id = ','.join(products_id)
+    url = f'https://ecapi.pchome.com.tw/ecshop/prodapi/v2/prod/button&id={products_id}'
+    data = self.request_get(url)
+    if not data:
+        print(f'請求發生錯誤：{url}')
+        return []
+    return data

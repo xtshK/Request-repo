@@ -1,0 +1,223 @@
+[
+  {
+    "Id": "D",
+    "Name": "24h\u8cfc\u7269",
+    "Qty": 931,
+    "Nodes": [
+      {
+        "Id": "DSAB",
+        "Name": "LCD\u87a2\u5e55",
+        "Qty": 242,
+        "Nodes": [
+          { "Id": "DSABEX", "Qty": 63 },
+          { "Id": "DSAB8Z", "Qty": 54 },
+          { "Id": "DSABOI", "Qty": 50 },
+          { "Id": "DSABEZ", "Qty": 29 },
+          { "Id": "DSAB1I", "Qty": 13 },
+          { "Id": "DSAB9Y", "Qty": 12 },
+          { "Id": "DSABA8", "Qty": 8 },
+          { "Id": "DSABEW", "Qty": 6 },
+          { "Id": "DSABF0", "Qty": 3 },
+          { "Id": "DSAB3Y", "Qty": 1 },
+          { "Id": "DSABO6", "Qty": 1 },
+          { "Id": "DSABRX", "Qty": 1 },
+          { "Id": "DSABT8", "Qty": 1 }
+        ]
+      },
+      {
+        "Id": "DPAE",
+        "Name": "\u6295\u5f71\u6a5f",
+        "Qty": 234,
+        "Nodes": [
+          { "Id": "DPAE0O", "Qty": 70 },
+          { "Id": "DPAE0Q", "Qty": 36 },
+          { "Id": "DPAE8J", "Qty": 20 },
+          { "Id": "DPAE0D", "Qty": 17 },
+          { "Id": "DPAE8K", "Qty": 16 },
+          { "Id": "DPAE0U", "Qty": 13 },
+          { "Id": "DPAE89", "Qty": 12 },
+          { "Id": "DPAE87", "Qty": 8 },
+          { "Id": "DPAE8A", "Qty": 8 },
+          { "Id": "DPAE8B", "Qty": 8 },
+          { "Id": "DPAE8L", "Qty": 8 },
+          { "Id": "DPAE88", "Qty": 7 },
+          { "Id": "DPAE8E", "Qty": 4 },
+          { "Id": "DPAE0H", "Qty": 2 },
+          { "Id": "DPAE8S", "Qty": 2 },
+          { "Id": "DPAE1U", "Qty": 1 },
+          { "Id": "DPAE6J", "Qty": 1 },
+          { "Id": "DPAE6P", "Qty": 1 }
+        ]
+      },
+      {
+        "Id": "DCBA",
+        "Name": "\u8fa6\u516c\u8a2d\u5099",
+        "Qty": 105,
+        "Nodes": [
+          { "Id": "DCBAGA", "Qty": 65 },
+          { "Id": "DCBAE6", "Qty": 24 },
+          { "Id": "DCBAE5", "Qty": 5 },
+          { "Id": "DCBAE7", "Qty": 4 },
+          { "Id": "DCBAE9", "Qty": 3 },
+          { "Id": "DCBADY", "Qty": 2 },
+          { "Id": "DCBAE2", "Qty": 1 },
+          { "Id": "DCBAKQ", "Qty": 1 }
+        ]
+      },
+      {
+        "Id": "DPAD",
+        "Name": "\u6db2\u6676\u96fb\u8996",
+        "Qty": 98,
+        "Nodes": [
+          { "Id": "DPAD24", "Qty": 40 },
+          { "Id": "DPADF8", "Qty": 14 },
+          { "Id": "DPAD7L", "Qty": 13 },
+          { "Id": "DPADYC", "Qty": 11 },
+          { "Id": "DPADRP", "Qty": 10 },
+          { "Id": "DPAD27", "Qty": 9 },
+          { "Id": "DPADEG", "Qty": 1 }
+        ]
+      },
+      {
+        "Id": "DMAA",
+        "Name": "\u5f71\u97f3/\u5287\u9662",
+        "Qty": 64,
+        "Nodes": [
+          { "Id": "DMAAHV", "Qty": 18 },
+          { "Id": "DMAABA", "Qty": 12 },
+          { "Id": "DMAAJ5", "Qty": 10 },
+          { "Id": "DMAAM0", "Qty": 10 },
+          { "Id": "DMAA5D", "Qty": 4 },
+          { "Id": "DMAA5F", "Qty": 2 },
+          { "Id": "DMAA5G", "Qty": 2 },
+          { "Id": "DMAA7Q", "Qty": 2 },
+          { "Id": "DMAA3F", "Qty": 1 },
+          { "Id": "DMAA5H", "Qty": 1 },
+          { "Id": "DMAA6A", "Qty": 1 },
+          { "Id": "DMAAHO", "Qty": 1 }
+        ]
+      },
+      {
+        "Id": "DCAG",
+        "Name": "\u7b46\u96fb\u5468\u908a/\u914d\u4ef6",
+        "Qty": 46,
+        "Nodes": [
+          { "Id": "DCAGVF", "Qty": 11 },
+          { "Id": "DCAGVH", "Qty": 11 },
+          { "Id": "DCAGVI", "Qty": 11 },
+          { "Id": "DCAGSL", "Qty": 10 },
+          { "Id": "DCAGW4", "Qty": 3 }
+        ]
+      },
+      {
+        "Id": "DGBJ",
+        "Name": "\u96fb\u73a9/\u904a\u6232",
+        "Qty": 44,
+        "Nodes": [
+          { "Id": "DGBJC0", "Qty": 11 },
+          { "Id": "DGBJC1", "Qty": 11 },
+          { "Id": "DGBJIV", "Qty": 11 },
+          { "Id": "DGBJJ3", "Qty": 11 }
+        ]
+      },
+      {
+        "Id": "DCAC",
+        "Name": "\u7dda\u6750",
+        "Qty": 31,
+        "Nodes": [
+          { "Id": "DCACBP", "Qty": 11 },
+          { "Id": "DCACXQ", "Qty": 7 },
+          { "Id": "DCACY0", "Qty": 3 },
+          { "Id": "DCACXW", "Qty": 2 },
+          { "Id": "DCACVF", "Qty": 1 },
+          { "Id": "DCACVG", "Qty": 1 },
+          { "Id": "DCACXR", "Qty": 1 },
+          { "Id": "DCACXS", "Qty": 1 },
+          { "Id": "DCACXV", "Qty": 1 },
+          { "Id": "DCACXY", "Qty": 1 },
+          { "Id": "DCACXZ", "Qty": 1 },
+          { "Id": "DCACY1", "Qty": 1 }
+        ]
+      },
+      {
+        "Id": "DRAD",
+        "Name": "\u986f\u793a\u5361",
+        "Qty": 12,
+        "Nodes": [{ "Id": "DRAD5V", "Qty": 12 }]
+      },
+      {
+        "Id": "DSBC",
+        "Name": "\u5357\u7d213C",
+        "Qty": 12,
+        "Nodes": [
+          { "Id": "DSBC28", "Qty": 9 },
+          { "Id": "DSBC1Z", "Qty": 3 }
+        ]
+      },
+      {
+        "Id": "DCAV",
+        "Name": "\u624b\u5beb/\u7e6a\u5716\u677f",
+        "Qty": 11,
+        "Nodes": [{ "Id": "DCAV9B", "Qty": 11 }]
+      },
+      {
+        "Id": "DCBE",
+        "Name": "\u4e09\u4e953C",
+        "Qty": 11,
+        "Nodes": [
+          { "Id": "DCBE1C", "Qty": 7 },
+          { "Id": "DCBE2Z", "Qty": 2 },
+          { "Id": "DCBE49", "Qty": 1 },
+          { "Id": "DCBE4H", "Qty": 1 }
+        ]
+      },
+      {
+        "Id": "DABQ",
+        "Name": "\u5546\u5e97\u8857",
+        "Qty": 10,
+        "Nodes": [
+          { "Id": "DABQ9U", "Qty": 6 },
+          { "Id": "DABQBS", "Qty": 4 }
+        ]
+      },
+      {
+        "Id": "DHAB",
+        "Name": "\u7279\u4ed5\u7b46\u96fb",
+        "Qty": 4,
+        "Nodes": [
+          { "Id": "DHABDA", "Qty": 1 },
+          { "Id": "DHABDG", "Qty": 1 },
+          { "Id": "DHABDJ", "Qty": 1 },
+          { "Id": "DHABDK", "Qty": 1 }
+        ]
+      },
+      {
+        "Id": "DCAB",
+        "Name": "\u5145\u96fb/\u96fb\u6c60",
+        "Qty": 3,
+        "Nodes": [
+          { "Id": "DCABI9", "Qty": 2 },
+          { "Id": "DCABI2", "Qty": 1 }
+        ]
+      },
+      {
+        "Id": "DQBK",
+        "Name": "\u8fa6\u516c\u7528\u54c1",
+        "Qty": 2,
+        "Nodes": [{ "Id": "DQBKAW", "Qty": 2 }]
+      },
+      {
+        "Id": "DSBE",
+        "Name": "\u9732\u5929",
+        "Qty": 1,
+        "Nodes": [{ "Id": "DSBE0D", "Qty": 1 }]
+      },
+      {
+        "Id": "DYAF",
+        "Name": "\u624b\u6a5f\u5e73\u677f\u914d\u4ef6",
+        "Qty": 1,
+        "Nodes": [{ "Id": "DYAFA0", "Qty": 1 }]
+      }
+    ]
+  }
+]
